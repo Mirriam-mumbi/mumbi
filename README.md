@@ -33,4 +33,4 @@ Tools Used
 Contact
 -------
 Made by: [Mirriam Mumbi]  
-Email: mirriammumbi.m@example.com
+Email: mirriammumbi.m@gmail.com
